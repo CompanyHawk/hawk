@@ -1,4 +1,5 @@
-[ 
+{
+"blockedUrls": [ 
         "x.com/0xshif",
         "x.com/Tuz777_eth",
         "x.com/kahin_ETH",
@@ -27,3 +28,4 @@
         "x.com/digicatsdoteth",
         "x.com/CapsureLTD"
     ]
+}
